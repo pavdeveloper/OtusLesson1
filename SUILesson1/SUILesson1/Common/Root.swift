@@ -33,7 +33,7 @@ struct Root: View {
                     BaseTabItem(itemText: "Tab3",
                                 itemImage: "cloud.snow.fill")
                 }
-                .tag(3)
+                .tag(2)
             Tab4SuiView()
                 .font(.title)
                 .tabItem {
